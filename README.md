@@ -1,6 +1,6 @@
 # 🐧 Linux for DevOps
 
-**Linux fundamentals for DevOps engineers — learn by doing.**
+**Linux fundamentals for DevOps engineers - learn by doing.**
 
 A beginner-friendly, hands-on guide to Linux commands, file permissions, process management, networking, logs, Bash basics, and troubleshooting. This repository is part of the **TechGalary learning series**.
 
